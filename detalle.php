@@ -91,7 +91,7 @@ if (isset($_POST['ficha']) && !empty($_POST['ficha']))
 		}	
 		
 		echo "<tr><td>";
-		echo "<span id='submenu'><a href='' id='ocultar_ficha_".$datos_generales['ficha']."' class='nb'>Contraer ficha completa</a></span>";
+		echo "<span id='submenu'><a href='' id='ocultar_ficha_".$datos_generales['ficha']."' class='nb drop-shadow curved'>Contraer ficha completa</a></span>";
 		echo "</td></tr>";
 		echo "</table>";
 		

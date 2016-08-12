@@ -70,8 +70,9 @@
     <span class="conoce">
     <img src="images/f_bm.png" width="900" height="100" usemap="#Map" border="0">
     <map name="Map">
-      <area shape="rect" coords="6,13,189,89" href="index.php">
-      <area shape="rect" coords="479,6,883,93" href="http://www.biodiversidad.gob.mx">
+      <area shape="rect" coords="-4,60,140,93" href="index.php">
+      <area shape="rect" coords="489,6,893,95" href="http://www.biodiversidad.gob.mx">
+      <area shape="rect" coords="3,3,79,25" href="http://www.janium.com/janium/" target="_blank">
     </map>
     </span>
     <span class="conoce2">
@@ -90,25 +91,24 @@
     </div>
     <div id="menu-mobile">
       <a href="index.php?v=audios&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Audios</a>
-       <a href="index.php?v=articulo&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Biodiversitas</a>
+      <a href="index.php?v=articulo&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Artículos de Biodiversitas</a>
+      <a href="index.php?v=edicionxnumero&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Biodiversitas por número</a>
       <a href="index.php?v=carteles&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Carteles</a>
       <a href="index.php?v=exposicion&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Exposiciones</a>
+      <a href="index.php?v=libros&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Libros</a>
+      <a href="index.php?v=mapas&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Mapas</a>
       <a href="index.php?v=videos&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Videos</a>
-      <a href="index.php?v=libros&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1" style="pointer-events: none; cursor: default; opacity: .4;">Libros</a>
-      <a href="index.php?v=mapas&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1" style="pointer-events: none; cursor: default; opacity: .4;">Mapas</a>
-      <a href="index.php?v=tesis&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1" style="pointer-events: none; cursor: default; opacity: .4;">Tesis</a>
       <span class="cf"></span>
     </div><!-- menu mobile ENDS-->
     <div id="menu">
       <a href="index.php?v=audios&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Audios</a>
-       <a href="index.php?v=articulo&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Biodiversitas por artículo</a>
-       <a href="index.php?v=edicionxnumero&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Biodiversitas por numero</a>
+      <a href="index.php?v=articulo&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Artículos de Biodiversitas</a>
+      <a href="index.php?v=edicionxnumero&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Biodiversitas por número</a>
       <a href="index.php?v=carteles&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Carteles</a>
       <a href="index.php?v=exposicion&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Exposiciones</a>
+      <a href="index.php?v=libros&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Libros</a>
+      <a href="index.php?v=mapas&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Mapas</a>
       <a href="index.php?v=videos&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1">Videos</a>
-      <a href="index.php?v=libros&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1" style="pointer-events: none; cursor: default; opacity: .4;">Libros</a>
-      <a href="index.php?v=mapas&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1" style="pointer-events: none; cursor: default; opacity: .4;">Mapas</a>
-      <a href="index.php?v=tesis&metodo=RegistroBib%2FBuscarPorPalabraClaveGeneral&a=terminos&inicio=1" style="pointer-events: none; cursor: default; opacity: .4;">Tesis</a>
     </div><!-- menu ENDS-->
 
 

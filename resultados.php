@@ -88,7 +88,7 @@ if (isset($_GET['metodo']) && !empty($_GET['metodo']) && isset($_GET['a']) && !e
 		}
 
 		echo "<tr><td>";
-		echo "<span id='submenu'><a href='' id='ficha_".$ficha['ficha']."' class='nb'>Ver ficha completa</a></span>";
+		echo "<span id='submenu'><a href='' id='ficha_".$ficha['ficha']."' class='nb drop-shadow curved'>Ver ficha completa</a></span>";
 		echo "</td></tr>";
 		//echo $ficha['ficha'];
 
